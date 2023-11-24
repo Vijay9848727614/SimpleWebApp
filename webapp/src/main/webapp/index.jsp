@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Diwali offers avalable tii Decmber 31st</h1>   
+         <h1>Diwali offers avalable ended now</h1>   
 	 
 
     </section>    

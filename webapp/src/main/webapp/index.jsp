@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Diwali offers avalable till NewYear Upto 70%</h1>   
+         <h1>Diwali offers avalable till NewYear Upto 90%</h1>   
 	 
 
     </section>    

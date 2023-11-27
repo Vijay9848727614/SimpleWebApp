@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Flipkart Now Under Maintenance till dec-2nd</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Flipkart Now Under Maintenance till dec-14th</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Diwali offers avalable</h1>   
+         <h1>Diwali offers avalable till dec-15th</h1>   
 	 
 
     </section>    

@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Atagadu offers available Now</h1>   
+         <h1>Atagadu Kondal offers available Now Only For Girls</h1>   
 	 
 
     </section>    
